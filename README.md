@@ -2,7 +2,6 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
 
 Data science notes and scratch notebooks — NumPy vectorization patterns, Jupyter/Polynote workflow tips, and Python language notes I wanted to keep a copy of.
